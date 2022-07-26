@@ -1,8 +1,9 @@
 ### Hi there 👋
-![Haruachm's Github stats](https://github-readme-stats.vercel.app/api?username=haruachm&show_icons=true)
-[![Haruachm's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=haruachmID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/haruachm)
 
-<img src="https://img.shields.io/badge/E34F26?style=for-the-badge&logo=HTML5&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+
+![Haruachm's Github stats](https://github-readme-stats.vercel.app/api?username=haruachm&show_icons=true)
+
 
 
 <!--
