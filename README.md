@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Haruachm%20render&fontSize=90)
+
 <div align="center">
   
 # ⚡My Programming Study Space⚡
@@ -12,8 +14,8 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
   
 </div>
+<br/> <br/> <br/> <br/> <br/> 
 
-#
 ![Haruachm's Github stats](https://github-readme-stats.vercel.app/api?username=haruachm&show_icons=true&theme=cobalt2)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
 
