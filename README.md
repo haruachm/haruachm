@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Haruachm%20render&fontSize=90)
-
 <div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=Haruachm&fontSize=90)  
   
 # ⚡My Programming Study Space⚡
 
