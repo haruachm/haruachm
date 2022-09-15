@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Haruachm&fontSize=90&fontColor=0077b6)  
   
-# ⚡My Programming Study Space⚡
+# ⚡ My Programming Study Space ⚡
 
 ## 🟥Tech Stack🟦
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
