@@ -25,10 +25,14 @@
 <img src="https://img.shields.io/badge/24iambusyman@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/> 
    
 </div>
+
 <br/> <br/> <br/> <br/> <br/></br></br>   
+
 <div align="center">
+
 ![Haruachm's Github stats](https://github-readme-stats.vercel.app/api?username=haruachm&show_icons=true&theme=cobalt2)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruachm&layout=compact&theme=tokyonight)
+
 </div>
  
 <!--
