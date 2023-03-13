@@ -1,6 +1,5 @@
 <div align="center">
    
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Haruachm&fontSize=90&fontColor=0077b6)   
   
 # ⚡Hard Coding⚡
  
