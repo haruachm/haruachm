@@ -16,7 +16,7 @@
 <br/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=GitHub&logoColor=white"/> 
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/> 
 <br/>
 
 <br/>  
