@@ -24,8 +24,6 @@
    🤝<b> Contact</b><br/>  
 <img src="https://img.shields.io/badge/24iambusyman@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/> 
    
-</div>
-
 <br/> <br/>
 
 <div align="center">
@@ -35,6 +33,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruachm&layout=compact&theme=transparent)
 
 </div>
+
+</div>
+
+
  
 <!--
 **haruachm/haruachm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
