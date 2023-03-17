@@ -2,6 +2,10 @@
    
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Haruachm&fontSize=90&fontColor=0077b6)   
    
+<br/>
+   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&weight=800&size=35&pause=1000&color=2EA2D4&width=435&height=53&lines=Hi%2C+I'm+FrontEnd+Developer)](https://git.io/typing-svg)  
+ 
 # ⚡ My Programming Study Space ⚡
    
 ## 🟥Tech Stack🟦  
@@ -28,17 +32,12 @@
 
 <br/> <br/>
 
-<div>
-<div align="left">
 
 ![Haruachm's Github stats](https://github-readme-stats.vercel.app/api?username=haruachm&show_icons=true&theme=transparent)
-</div>
 
-<div align="right">
-   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruachm&layout=compact&theme=transparent)
-</div>
-</div>
+
+
    
 <!--
 **haruachm/haruachm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
