@@ -32,15 +32,17 @@
 
 <br/> <br/>
 
+<div align = "center">
 <a href="https://github.com/haruachm">
   <img src="https://github-readme-stats.vercel.app/api?username=haruachm&show_icons=true&theme=transparent" width=48% />
 </a>
 
 
 <a href="https://github.com/haruachm">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruachm&layout=compact&theme=transparent" width=51% />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruachm&layout=compact&theme=transparent" width=40% />
 </a>
-
+</div>
+   
 <!--![Haruachm's Github stats](https://github-readme-stats.vercel.app/api?username=haruachm&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruachm&layout=compact&theme=transparent)
