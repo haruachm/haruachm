@@ -64,7 +64,7 @@
 
 
 <a href="https://github.com/haruachm">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruachm&layout=compact&theme=transparent" width=36% />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruachm&layout=compact&theme=transparent" width=39% />
 </a>
 </div>
 
