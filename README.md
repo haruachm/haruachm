@@ -32,11 +32,14 @@
 
 <br/> <br/>
 
+<a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/haruachm)">
+  <img src="https://github-readme-stats.vercel.app/api?username=haruachm&show_icons=true&theme=transparent" width=48% />
+</a>
 
-![Haruachm's Github stats](https://github-readme-stats.vercel.app/api?username=haruachm&show_icons=true&theme=transparent)
+<!--![Haruachm's Github stats](https://github-readme-stats.vercel.app/api?username=haruachm&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruachm&layout=compact&theme=transparent)
-
+-->
 
    
 <!--
