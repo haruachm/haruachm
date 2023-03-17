@@ -28,7 +28,7 @@
 <br/> <br/>
 </div>
 
-<div>
+<p>
    <div align="left">
       
       ![Haruachm's Github stats](https://github-readme-stats.vercel.app/api?username=haruachm&show_icons=true&theme=transparent)
@@ -39,7 +39,7 @@
       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruachm&layout=compact&theme=transparent)
       
    </div>
-</div>
+</p>
 
 
  
