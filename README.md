@@ -59,17 +59,17 @@
    
 <div align = "center">
 <a href="https://github.com/haruachm">
-  <img src="https://github-readme-stats.vercel.app/api?username=haruachm&show_icons=true&theme=transparent" width=54% />
+  <img src="https://github-readme-stats.vercel.app/api?username=haruachm&show_icons=true&theme=transparent" width=59% />
 </a>
 
 
 <a href="https://github.com/haruachm">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruachm&layout=compact&theme=transparent" width=45% />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruachm&layout=compact&theme=transparent" width=40% />
 </a>
 </div>
 
 <a href="https://github.com/haruachm">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=haruachm&theme=react-dark&bg_color=000000&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=haruachm&theme=github&bg_color=FFFFFF" width=98%/>
 </a>
 
 
