@@ -67,7 +67,13 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruachm&layout=compact&theme=transparent" width=37% />
 </a>
 </div>
-   
+
+<a href="https://github.com/haruachm">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=haruachm&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
+</a>
+
+
+
 <!--![Haruachm's Github stats](https://github-readme-stats.vercel.app/api?username=haruachm&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruachm&layout=compact&theme=transparent)
