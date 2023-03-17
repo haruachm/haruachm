@@ -59,7 +59,7 @@
    
 <div align = "center">
 <a href="https://github.com/haruachm">
-  <img src="https://github-readme-stats.vercel.app/api?username=haruachm&show_icons=true&theme=transparent" width=55% />
+  <img src="https://github-readme-stats.vercel.app/api?username=haruachm&show_icons=true&theme=transparent" width=54% />
 </a>
 
 
@@ -69,7 +69,7 @@
 </div>
 
 <a href="https://github.com/haruachm">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=haruachm&theme=transparent" width=98%/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=haruachm&theme=react-dark&bg_color=000000&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
 </a>
 
 
