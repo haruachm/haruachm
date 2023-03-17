@@ -64,12 +64,12 @@
 
 
 <a href="https://github.com/haruachm">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruachm&layout=compact&theme=transparent" width=40% />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruachm&layout=compact&theme=transparent" width=36% />
 </a>
 </div>
 
 <a href="https://github.com/haruachm">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=haruachm&theme=github&bg_color=FFFFFF" width=98%/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=haruachm&theme=tokyo-night&bg_color=ffffff" width=98%/>
 </a>
 
 
