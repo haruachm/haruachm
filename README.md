@@ -5,8 +5,7 @@
 <br/>
    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&weight=700&size=35&pause=1000&color=2EA2D4&width=435&height=53&lines=Hi%2C+I'm+FrontEnd+Developer)](https://git.io/typing-svg)
- 
-</div>
+
    
 ### 💬 Language ...
 
@@ -55,7 +54,9 @@
 
 
 <br/> <br/>
-
+ 
+</div>
+   
 <div align = "center">
 <a href="https://github.com/haruachm">
   <img src="https://github-readme-stats.vercel.app/api?username=haruachm&show_icons=true&theme=transparent" width=48% />
