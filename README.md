@@ -1,10 +1,6 @@
-
 <div align="center">
-
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Haruachm&fontSize=90&fontColor=0077b6)   
-
 # ⚡ My Programming Study Space ⚡
-
 ## 🟥Tech Stack🟦     
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
@@ -21,26 +17,19 @@
 <br/>
 <br/>  
 <br/>  
-   
-🤝<b> Contact</b><br/>  
+   🤝<b> Contact</b><br/>  
 <img src="https://img.shields.io/badge/24iambusyman@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/> 
-   
-<br/> <br/>
+
 </div>
 
+<br/> <br/>
 
-   <div align="left">
-      
-      ![Haruachm's Github stats](https://github-readme-stats.vercel.app/api?username=haruachm&show_icons=true&theme=transparent)
-      
+<div align="center">
 
-      
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruachm&layout=compact&theme=transparent)
-      
-   </div>
-
-
-
+![Haruachm's Github stats](https://github-readme-stats.vercel.app/api?username=haruachm&show_icons=true&theme=transparent)
+   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruachm&layout=compact&theme=transparent)
+</div>
  
 <!--
 **haruachm/haruachm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
